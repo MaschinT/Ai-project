@@ -2,7 +2,8 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-Project for the Building AI course
+## Title
+Final Project for the Building AI course
 
 ## Summary
 My project is about why Ai will make a huge difference for the society and community in the whole world. With its contribution and guiding it will improve the technology in the world. But it has a price aswell as it can increase the unemployment rate even further and it will make a negative effect on the society for the workers etc.
